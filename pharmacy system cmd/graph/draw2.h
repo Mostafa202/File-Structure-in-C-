@@ -1,0 +1,25 @@
+
+	setcolor('R');
+	gotoxy(1,1);
+	cout<<"\1";
+	setcolor('B');
+    gotoxy(2,1);
+	cout<<"Display";
+	setcolor('R');
+	gotoxy(1,4);
+	cout<<"\1";
+	setcolor('B');
+    gotoxy(2,4);
+	cout<<"Update";
+	setcolor('R');
+	gotoxy(1,7);
+	cout<<"\1";
+	setcolor('B');
+	gotoxy(2,7);
+	cout<<"Delete";
+	setcolor('R');
+	gotoxy(1,10);
+	cout<<"\1";
+	setcolor('B');
+	gotoxy(2,10);
+	cout<<"Retrieve";
